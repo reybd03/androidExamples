@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EngineeringTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_location1">Location 1</string>
+    <string name="set_location1">Set</string>
+    <string name="title_activity_location1">Location1</string>
+    <string name="text_Location1">Location 1</string>
+    <string name="clearLocation1"></string>
+    <string name="edit_location2">Location 2</string>
+    <string name="set_location2">Set</string>
+    <string name="edit_location3">Location 3</string>
+    <string name="edit_location4">Location 4</string>
+    <string name="edit_location5">Location 5</string>
+    <string name="set_location3">Set</string>
+    <string name="set_location4">Set</string>
+    <string name="set_location5">Set</string>
+    <string name="title_activity_location2">Location2</string>
+    <string name="textview_location1">Location 1</string>
+    <string name="textView_location2">Location 2</string>
+    <string name="title_activity_location3">Location3</string>
+    <string name="textview_location3">Location 3</string>
+    <string name="title_activity_location4">Location4</string>
+    <string name="textview_location4">Location 4</string>
+    <string name="title_activity_location5">Location5</string>
+    <string name="textview_location5">Location 5</string>
+    <string name="question_locations">Questions</string>
+    <string name="question1">Questions</string>
+    <string name="state_location">State</string>
+    <string name="mto_number">MTO #</string>
+    <string name="track_location">Track(s)</string>
+    <string name="cite">Cite7</string>
+    <string name="yard">Yard</string>
+    <string name="station">Station</string>
+    <string name="createdBy">Created By</string>
+    <string name="another_hint">Hint</string>
+    <string name="frag1">Location 1</string>
+    <string name="frag2">Location 2</string>
+    <string name="frag3">Location 3</string>
+    <string name="frag4">Location 4</string>
+    <string name="frag5">Location 5</string>
+    <string name="title_activity_home">Home</string>
+
+</resources>
